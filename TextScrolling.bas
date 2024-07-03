@@ -1,4 +1,4 @@
-10 A$="this was a film from oldskoolcoder (c) jun 2019. "
+10 A$="this was a film from oldskoolcoder (c) jun 2019."
 20 A$ = A$ + "github : https://github.com/oldskoolcoder/ "
 40 A$ = A$ + "twitter : @oldskoolcoder email : oldskoolcoder@outlook.com "
 50 A$ = A$ + "please support me on patreon @ https://www.patreon.com/"
